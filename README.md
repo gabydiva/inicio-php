@@ -1,1 +1,15 @@
+<?php
+$nome = "gabriely jó da silva";
+$altura = 1.65;
+$profissao = "estudante";
+$cidade_natal = "guarulhos";
+$pais = "brasil";
+$ano_atual = 2025;
+$ano_nasc = 2007;
+$idade = $ano_atual - $ano_nasc;
+
+echo "meu nome é {$nome}, minha altura é {$altura} sou {$profissao} nasci na cidade de {$cidade_natal}
+no país {$pais}, no ano de {$ano_nasc} e tenho {$idade} anos."
+?>
+
 # inicio-php
